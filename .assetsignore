@@ -1,0 +1,7 @@
+_worker.js
+.git/
+.github/
+wrangler.toml
+wrangler.json
+wrangler.jsonc
+*.zip
