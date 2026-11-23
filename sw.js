@@ -1,4 +1,4 @@
-const CACHE = "almonde-v40";
+const CACHE = "almonde-v41";
 const CORE = ["/", "/almonde-film-poster-v2.webp", "/almonde-symbol.png", "/film-frames-desktop-lite-v2/sheet-01.webp", "/film-frames-mobile-lite-v2/sheet-01.webp"];
 
 self.addEventListener("install", event => {
