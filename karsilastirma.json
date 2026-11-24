@@ -1,0 +1,50 @@
+{
+  "githubTree": "9a3ed488e615713c66c1617f5e4f3171a1b24344",
+  "checkedAt": "2026-11-24T11:06:43.107Z",
+  "changed": [
+    {
+      "file": ".assetsignore",
+      "bytes": 65,
+      "status": "changed",
+      "sha256": "2d674d1876670f7a957e2b9d3fe59e7973925cd387b9c074169b7082e54dcd13"
+    },
+    {
+      "file": "_worker.js",
+      "bytes": 2327538,
+      "status": "changed",
+      "sha256": "d27cd5ec1a5d895ca63548e1b3d9e0d5c0c7ce32f3fa0c67aa949bc81c956e94"
+    },
+    {
+      "file": "assets/index-Cuhv-ti0.js",
+      "bytes": 80786,
+      "status": "missing",
+      "sha256": "843850f94828407c0ec8d62f77ac5995823aa1a81a06cc09902600f7a6804424"
+    },
+    {
+      "file": "assets/layout-segment-context-40c5hCZz.js",
+      "bytes": 283,
+      "status": "missing",
+      "sha256": "360a4e1904475872fd7ccba09303a425b4985b8c5e4b537a563679caee0c461b"
+    },
+    {
+      "file": "assets/page-CCud5Z-P.css",
+      "bytes": 14586,
+      "status": "missing",
+      "sha256": "17e6f0d147657c7eb97219039318f6084d2494883573303c01c0e5a141eb981d"
+    },
+    {
+      "file": "assets/page-Sb-R1XMO.js",
+      "bytes": 595461,
+      "status": "missing",
+      "sha256": "f0f4943cf3e5a4a174ff7aa7637e9ea3400e23f8301f0cc119f2502cb648dac4"
+    },
+    {
+      "file": "wrangler.jsonc",
+      "bytes": 185,
+      "status": "changed",
+      "sha256": "61945a884d5e07a35e51986d294bb624a8d84fcaffca6df030c8f901ea178575"
+    }
+  ],
+  "unchangedCount": 289,
+  "unchangedVideos": 256
+}
